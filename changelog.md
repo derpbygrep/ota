@@ -1,1 +1,13 @@
-
+# 22 September 2025
+- September Security Patch
+- Add Faceunlock
+- Keep a simpler impl for network traffic
+- Allow to change icon and icon font size in launcher
+- Show clear all in recents
+- Add GoogleSansFlex font
+- Add more iconpacks and iconshapes
+- audio: Import OEM changes
+- kernel: Import changes from CPH2709_15.0.2.501(EX01)
+- Kang richtap effects from from OnePlus 12 (CPH2581_15.0.0.850(EX01)
+- Fix keyguard text too close to FOD
+- Misc fixes and improvements
