@@ -3,6 +3,7 @@
 - Add Faceunlock
 - Keep a simpler impl for network traffic
 - Allow to change icon and icon font size in launcher
+- Add 3 finger screenshot
 - Show clear all in recents
 - Add GoogleSansFlex font
 - Add more iconpacks and iconshapes
